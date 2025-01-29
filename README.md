@@ -1,2 +1,2 @@
 # Hotel-Booking-Cancellation-Analysis
-Hotel Booking Cancellation Analysis
+The project analysis the detailed pattern of hotel bookings and the cancellation patterns. The average daily, monthly and yearly bookings and the cancellations of the hotel. Differentiate the booking and cancellation of city and resort hotels. Idenify the bookings and cancellations of different countries. Identified the reseasons of the cancellation of the bookings. And also findout the tailored straties to reduce cancellations.
